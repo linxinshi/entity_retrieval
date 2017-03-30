@@ -1,7 +1,7 @@
-competitive model
+competitive model 1
 bigram model
 convolutional similairy
 query decomposition
 unstable linear system
-type inference
+simple type inference
 python.multiprocessing
